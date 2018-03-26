@@ -15,3 +15,4 @@ https://github.com/LowPowerLab/RFM69
 https://github.com/LowPowerLab/SPIFlash  
 https://github.com/LowPowerLab/LowPower  
 https://github.com/LowPowerLab/SI7021  
+https://github.com/adafruit/Adafruit-BMP085-Library  
